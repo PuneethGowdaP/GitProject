@@ -1,3 +1,2 @@
 This is my first file
 i have created git repo
-this is for pull command
